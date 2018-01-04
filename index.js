@@ -47,6 +47,7 @@ if (isEnabled) {
   hexo.config.js_concator = Object.assign({
     enable: false,
     bundle_path: 'js/bundle.js',
+    use_versioned_bundle: false,
     front: false,
   }, hexo.config.js_concator);
 
