@@ -31,6 +31,7 @@ If you need futher control of this plugin, please refer the options below.
 js_concator:
   enable: false
   bundle_path: '/js/bundle.js'
+  use_versioned_bundle: false
   front: false
 ```
 - **enable** - Enable the Js concator. Defaults to `false`.
