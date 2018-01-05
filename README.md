@@ -10,6 +10,8 @@
 
 All in one. Minifier & Optimization plugin for [Hexo](https://hexo.io).
 
+:star2:[hexo-all-minifier](https://github.com/chenzhutian/hexo-all-minifier): We forked the original project to add some additional tooling to `js_concator`. Eventually we might submit a pull request upstream. 
+
 ## Installation
 ``` bash
 $ npm install hexo-all-minifier --save
