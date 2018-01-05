@@ -1,5 +1,5 @@
 {
-  "name": "hexo-all-minifier",
+  "name": "@rcd/hexo-all-minifier",
   "version": "0.4.4",
   "description": "Minify HTML, CSS, JS and Image files.",
   "main": "index",
